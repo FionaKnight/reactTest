@@ -1,0 +1,37 @@
+[
+    {
+        "animalName":"Paddy",
+        "animalPic":"images/Paddy.jpg",
+        "animalAge":"8",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed"
+    },
+    {
+        "animalName":"Jem",
+        "animalPic":"images/Jem.jpg",
+        "animalAge":"5",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed Sproodle"
+    },
+    {
+        "animalName":"Alfie",
+        "animalPic":"images/Alfie.jpg",
+        "animalAge":"13",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Jack",
+        "animalPic":"images/Jack.jpg",
+        "animalAge":"10",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Jacob",
+        "animalPic":"images/Jacob.jpg",
+        "animalAge":"10",
+        "animalType":"cat",
+        "animalBreed":"Black and white moggy"
+    }
+]

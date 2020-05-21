@@ -1,0 +1,13 @@
+.Animal .myPic {
+    width:100%;
+    height:auto;
+    max-width:300px;
+    margin:0 auto;
+  }
+.Animal {
+    border:solid .1em #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width:calc(25% - 4.2em);
+    padding:1em;
+    margin:1em;
+}
